@@ -1,5 +1,5 @@
 <p align="center">
-    <h2><b>Hello folks!</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h2>
+    <h1><b>Hello folks!</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h1>
 </p>
 
 ---
@@ -9,4 +9,9 @@ I'm currently working on Cyberpunk 2077, but I worked on a lot of games, like Wi
 
 ---
 
-💻 
+💻 <h3>Languages</h3>
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |

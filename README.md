@@ -9,7 +9,7 @@ I'm currently working on Cyberpunk 2077, but I worked on a lot of games, like Wi
 
 ---
 
-💻 <h3>Languages</h3>
+<h3>💻 Languages</h3>
 
 | First Header  | Second Header |
 | ------------- | ------------- |

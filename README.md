@@ -1,6 +1,6 @@
 <p align="center">
-    <b>Hello folks!</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-</p> 
+    <h2><b>Hello folks!</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h2>
+</p>
 
 ---
 

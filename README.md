@@ -11,7 +11,34 @@ I'm currently working on Cyberpunk 2077, but I worked on a lot of games, like Wi
 
 <h3>💻 Languages</h3>
 
-| First Header  | Second Header |
+| Language | Experience (Year) | Level |
+| :---         |     :---:      |          ---: |
+| C++   | 10 years  | `experienced` |
+| C#    | 8 years   | `experienced` |
+| Java  | 2 years   | `beginner`    |
+
+---
+
+<h3>🎮 Engine knowledge</h3>
+
+| Engine | Experience (Year) | Level |
+| :---         |     :---:      |   ---: |
+| Unreal Engine 4   | 9 years  | `experienced` |
+| Unity Engine  | 9 years   | `experienced` |
+| Godot Engine  | 1 years   | `beginner`    |
+| Cryengine  | 8 years   | `experienced`    |
+| Red Engine  | 7 years   | `experienced`    |
+
+---
+
+<h3>🚧 Works</h3>
+
+| Name  | Role |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Cyberpunk 2077  | Gameplay Programming  |
+| Gwent  | Gameplay Programming  |
+| Thronebreaker  | Gameplay Programming  |
+| The Last of Us Part II  | Gameplay Programming (Developer help - 6 month)  |
+| Witcher 3  | Bug fixing (Gameplay Programming)  |
+| Witcher 3 - Blood and wine  | Bug fixing (Gameplay Programming)  |
+| Witcher 3 - Hearts of Stone | Bug fixing (Gameplay Programming)  |

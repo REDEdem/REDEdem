@@ -33,7 +33,7 @@ I'm currently working on Cyberpunk 2077, but I worked on a lot of games, like Wi
 
 <h3>🚧 Works</h3>
 
-| Name  | Role |
+| <b>Name</b>  | Role |
 | ------------- | ------------- |
 | Cyberpunk 2077  | Gameplay Programming  |
 | Gwent  | Gameplay Programming  |

@@ -13,8 +13,8 @@ Yet i'm working on Cyberpunk 2077, but I worked on a lot of games, like Witcher 
 
 | Language | Experience (Year) | Level |
 | :---         |     :---:      |          ---: |
-| C++   | 10 years  | `experienced` |
-| C#    | 8 years   | `experienced` |
+| C++   | 12 years  | `experienced` |
+| C#    | 9 years   | `experienced` |
 | Java  | 2 years   | `beginner`    |
 
 ---

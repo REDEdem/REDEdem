@@ -13,8 +13,8 @@ Yet i'm working on Cyberpunk 2077, but I worked on a lot of games, like Witcher 
 
 | Language | Experience (Year) | Level |
 | :---         |     :---:      |          ---: |
-| C++   | 12 years  | `experienced` |
-| C#    | 9 years   | `experienced` |
+| C++   | 13 years  | `experienced` |
+| C#    | 10 years   | `experienced` |
 | Java  | 2 years   | `beginner`    |
 
 ---
@@ -24,11 +24,11 @@ Yet i'm working on Cyberpunk 2077, but I worked on a lot of games, like Witcher 
 | Engine | Experience (Year) | Level |
 | :---         |     :---:      |   ---: |
 | Unreal Engine 5   | 2 years  | `experienced` |
-| Unreal Engine 4   | 10 years  | `experienced` |
-| Unity Engine  | 10 years   | `experienced` |
+| Unreal Engine 4   | 11 years  | `experienced` |
+| Unity Engine  | 11 years   | `experienced` |
 | Godot Engine  | 1 years   | `beginner`    |
 | Cryengine  | 8 years   | `experienced`    |
-| Red Engine  | 7 years   | `experienced`    |
+| Red Engine  | 8 years   | `experienced`    |
 
 ---
 

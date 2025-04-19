@@ -14,7 +14,7 @@ Yet i'm working on Cyberpunk 2077, but I worked on a lot of games, like Witcher 
 | Language | Experience (Year) | Level |
 | :---         |     :---:      |          ---: |
 | C++   | 13 years  | `experienced` |
-| C#    | 10 years   | `experienced` |
+| C#    | 11 years   | `experienced` |
 | Java  | 2 years   | `beginner`    |
 
 ---
@@ -23,8 +23,8 @@ Yet i'm working on Cyberpunk 2077, but I worked on a lot of games, like Witcher 
 
 | Engine | Experience (Year) | Level |
 | :---         |     :---:      |   ---: |
-| Unreal Engine 5   | 2 years  | `experienced` |
-| Unreal Engine 4   | 11 years  | `experienced` |
+| Unreal Engine 5   | 3 years  | `experienced` |
+| Unreal Engine 4   | 12 years  | `experienced` |
 | Unity Engine  | 11 years   | `experienced` |
 | Godot Engine  | 1 years   | `beginner`    |
 | Cryengine  | 8 years   | `experienced`    |
@@ -36,6 +36,7 @@ Yet i'm working on Cyberpunk 2077, but I worked on a lot of games, like Witcher 
 
 | Name  | Role |
 | ------------- | ------------- |
+| Witcher 4  | Gameplay Programming  |
 | Cyberpunk 2077  | Gameplay Programming  |
 | Gwent  | Gameplay Programming  |
 | Thronebreaker  | Gameplay Programming  |
